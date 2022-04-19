@@ -1,6 +1,6 @@
 # LocalStorage-Using-React-JS
 
-# STEPS TO RUN THE WEBSITE:-
+STEPS TO RUN THE WEBSITE:-
 
 NOTE: Run all the commands in either command prompt or terminal
 
