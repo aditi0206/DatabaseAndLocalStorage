@@ -1,8 +1,8 @@
-LocalStorage-Using-React-JS
+# LocalStorage-Using-React-JS
 
-STEPS TO RUN THE WEBSITE:-
+# STEPS TO RUN THE WEBSITE:-
 
-# Run all the commands in either command prompt or terminal
+NOTE: Run all the commands in either command prompt or terminal
 
 Step-1) The Project Begins By first Creating React App.The command used for creation is:
 
